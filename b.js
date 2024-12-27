@@ -8,4 +8,5 @@ const eli7 = () => {
 
 const b = () => {
     alert("bbbbbbbbbbbbbbbb")
+    console.log("b func")
 }
