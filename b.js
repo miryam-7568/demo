@@ -4,3 +4,8 @@ const eli7 = () => {
     alert("today")
     console.log("eli7 is here");
 }
+
+
+const b = () => {
+    alert("bbbbbbbbbbbbbbbb")
+}
